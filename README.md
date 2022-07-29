@@ -15,10 +15,9 @@ An analysis solely based on how theater campaigns fared in relation to their lau
 
 ### Analysis of Outcomes Based on Goals
 
-An analysis solely based on how theater campaigns fared in relation to their funding goals shows a direct relationship between goal amounts and success rates.  Unlike the analysis above where both success and failures spiked up in March, albeit to a much lesser extent for failures, their is a direct correlation between how high you set your goal and the chance you would find success in that bracket.  By sorting the data into intervals of five thousand dollars, it becomes evident that low goals (below $5000.00) have high rates of success for theater campaigns in relation to those that have failed. With 92% of our data coming in the range of one to fifteen thousand dollars (area within red rectangle), it becomes apparent that the higher your goal, the less likely you will find success in a theater campaign on Kickstarter.  The large interchange visible on the high side of the spectrum is a small sample size of nine projects.
+An analysis solely based on how theater campaigns fared in relation to their funding goals shows a direct relationship between goal amounts and success rates.  Unlike the analysis above where both success and failures spiked up in March, albeit to a much lesser extent for failures, their is a direct correlation between how high you set your goal and the chance you would find success in that bracket.  By sorting the data into intervals of five thousand dollars, it becomes evident that low goals (below $5000.00) have high rates of success for theater campaigns in relation to those that have failed. With 92% of our data coming in the range of one to fifteen thousand dollars (area within red rectangle), it becomes apparent that the higher your goal, the less likely you will find success in a theater campaign on Kickstarter.  The large interchange visible on the high side of the spectrum (red arrow) is a small sample size of nine projects.
 
-
-<img width="945" alt="Outcomes_vs_Goals_Edit" src="https://user-images.githubusercontent.com/108758105/181840250-457293b6-83a8-4f32-a6e6-2ff9867cc4ec.png">
+<img width="939" alt="Outcomes_vs_Goals_Edit" src="https://user-images.githubusercontent.com/108758105/181842079-e4d89ad5-69cb-42f8-90cc-d754417c89ca.png">
 
 ### Challenges and Difficulties Encountered
 
