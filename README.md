@@ -1,5 +1,18 @@
-# An Analysis of Kickstarter Campaigns
-Performing analysis on Kickstarter data to uncover trends on what makes for a successful campaign.
-![ParentCategoryOutcomesPivotChart](https://user-images.githubusercontent.com/108758105/181151278-77bfc24d-1cb4-4f3a-8b8a-06a636b1227d.png)
-![OutcomesTrendsBasedonLaunchDate](https://user-images.githubusercontent.com/108758105/181151320-b558eb30-3af8-4c7a-844c-327821d9fc68.png)
-![OutlierFundingData](https://user-images.githubusercontent.com/108758105/181151892-a1b264df-ec71-4356-b4e7-71d08c12497a.png)
+# Kickstarting with Excel
+## Overview of Project
+Performing analysis on Kickstarter data to learn how campaigns fare in relation to their launch dates and funding goals.
+### Purpose
+To give our client analytical insight on the campaign data and how certain variables effect one another, if at all.
+## Analysis and Challenges
+
+### Analysis of Outcomes Based on Launch Dates
+
+![Theater_Oucomes_vs_Launch](https://user-images.githubusercontent.com/108758105/181832299-03667918-fd84-41ca-ba43-c6c3517e92a6.png)
+
+### Analysis of Outcomes Based on Goals
+
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/108758105/181832341-538cd908-4b4a-4f80-acd8-a1dfd855f4f9.png)
+
+### Challenges and Difficulties Encountered
+
+## Results
