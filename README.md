@@ -5,7 +5,11 @@ Performing analysis on Kickstarter data to learn how campaigns fare in relation 
 To give our client analytical insight on the campaign data and how certain variables effect one another, if at all.
 ## Analysis and Challenges
 
+Using Microsoft Excel, Kickstarter data was sorted by various variables including launch dates, campaign outcomes, funding goal amounts, and pledged amounts, just to name a few.
+
 ### Analysis of Outcomes Based on Launch Dates
+
+An analysis of how theater campaigns fared in relation to their launch dates show that there is a precise window in which an individual can find success in their theatrical endeavors with respect to a Kickstarter campaign.  By timing their launch date between early spring to mid summer, they can increase their odds of a successful campaign given the large spike of successful campaigns that start in this time period (shown in the chart below) and the proportion of success in relation to those that failed.
 
 ![Theater_Oucomes_vs_Launch](https://user-images.githubusercontent.com/108758105/181832299-03667918-fd84-41ca-ba43-c6c3517e92a6.png)
 
