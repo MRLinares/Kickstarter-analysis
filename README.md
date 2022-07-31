@@ -22,3 +22,6 @@ An analysis solely based on how theater campaigns fared in relation to their fun
 ### Challenges and Difficulties Encountered
 
 ## Results
+
+One issue that may give clarity to the data is how many of these theater campaigns relied solely on Kistarter funding or whether they were able to secure funding from other sources and whether that had any effect on success rates.  It's possible that those that set small goals already have the majority of their needs taken care of and the remainder is for minor effects.
+Another important piece of information that may effect funding is the popularity of the producer.  It's possible that they may have had success with a previous play or they have ties to the community
