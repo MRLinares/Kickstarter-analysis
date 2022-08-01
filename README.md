@@ -33,9 +33,14 @@ From an analysis solely based on how theater campaigns fared in relation to thei
 
 #### Theater Campaigns vs Funding Goals
 
-From an analysis solely based on how theater campaigns fared in relation to their funding goals, one can conclude that there is a direct relationship between goal amounts and success rates.  Unlike the analysis above where both success and failures spiked up in March, albeit to a much lesser extent for failures, their is a direct correlation between how high you set your goal and the chance you would find success in that bracket.  By sorting the data into intervals of five thousand dollars, it becomes evident that low goals (below $5000.00) have high rates of success for theater campaigns in relation to those that have failed. With 92% of our data coming in the range of one to fifteen thousand dollars (more clearly defined by the bar chart), it becomes apparent that the higher your goal, the less likely you will find success in a theater campaign on Kickstarter.  The large interchange visible on the high side of the spectrum of the line graph is a small sample size of nine projects.
+From an analysis solely based on how theater campaigns fared in relation to their funding goals, one can conclude that there is a direct relationship between goal amounts and success rates.  Unlike the analysis above where both success and failures spiked up in March, albeit to a much lesser extent for failures, their is a direct correlation between how high you set your goal and the chance you would find success in that bracket shown through the negative relationship of the curves.  By sorting the data into intervals of five thousand dollars, it becomes evident that low goals (below $5000.00) have high rates of success for theater campaigns in relation to those that have failed. With 92% of our data coming in the range of one to fifteen thousand dollars (more clearly defined by the bar chart), it becomes apparent that the higher your goal, the less likely you will find success in a theater campaign on Kickstarter.  The large interchange visible on the high side of the spectrum of the line graph is a small sample size of nine projects.
 
 #### Limitations
 
 One piece of information that may give clarity to the data is how many of these theater campaigns relied solely on Kistarter funding or whether they were able to secure funding from other sources and whether that had any effect on success rates.  It's possible that successful campaigns that set small goals already had the majority of their needs taken care of and the remainder would have been for non-essential things.
+
 Another important piece of information that may effect funding is the popularity of the producer/product.  It's possible that they may have had success with a previous play or they have ties to the community and were able to easily raise the funds through those influences.
+
+#### Possible Further Analysis
+
+Deeper analysis can be done on the Outcomes vs Goals by seeing how much was pledged and whether the failures were indeed from lack of meeting goals or for other reasons.
