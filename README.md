@@ -15,8 +15,11 @@ Data was extracted from the data set and filtered for campaigns having to do wit
 
 ### Analysis of Outcomes Based on Goals
 
+Like the analysis for outcomes based on launch dates, data was extracted from the data set and filtered for campaigns having to with theater as a category and further filtered for a subcategory of "plays".  Some theater projects may be real estate in nature and that may require much larger goals that may skew the results in the high range, so they were filtered out.  The majority of goals were then divided in increments of five thousand dollars, except the first two ($1000, or less, and $1000 to $4999 respectively) and the last (anything over $50K).
 
-<img width="939" alt="Outcomes_vs_Goals_Edit" src="https://user-images.githubusercontent.com/108758105/181842079-e4d89ad5-69cb-42f8-90cc-d754417c89ca.png">
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/108758105/182052260-b1d76fad-57f7-4abf-a875-eaafd05ecdcc.png)
+
+![Number_Projects_Based_on_Goal](https://user-images.githubusercontent.com/108758105/182052289-6ce344f9-d524-45b5-ae9f-dbc8572455ea.png)
 
 ### Challenges and Difficulties Encountered
 
