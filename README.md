@@ -23,6 +23,8 @@ Like the analysis for outcomes based on launch dates, data was extracted from th
 
 ### Challenges and Difficulties Encountered
 
+One challenge encountered during the project was trying to visualize the conclusion I wanted to convey based on the rubric given.  Ultimately I decided adding a bar chart would paint a clearer picture.
+
 ## Results
 
 #### Theater Campaigns vs Launch Dates
