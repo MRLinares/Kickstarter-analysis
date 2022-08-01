@@ -25,11 +25,11 @@ Like the analysis for outcomes based on launch dates, data was extracted from th
 
 ## Results
 
-### Theater Campaigns vs Launch Dates
+#### Theater Campaigns vs Launch Dates
 
 From an analysis solely based on how theater campaigns fared in relation to their launch dates, one can conclude that there is a precise window in which an individual can find increased chances of success in their theatrical endeavors with respect to a Kickstarter campaign.  By timing their launch date between early spring to mid summer, they can increase their odds of a successful campaign given the large spike of successful campaigns that start in this time period (shown in the chart below) and the proportion of success in relation to those that failed.  Given the nature of the curves of each line, it is apparent that there is a positive relationship between the the outcomes, meaning that launch dates impact whether you will find success or not in the same way, except for the months of November and December where it the curves have a negative relationship.  It is inadvisable to attempt a launch in either of these months as the chances for success decrease, while those of failure increase.
 
-### Theater Campaigns vs Funding Goals
+#### Theater Campaigns vs Funding Goals
 
 From an analysis solely based on how theater campaigns fared in relation to their funding goals, one can conclude that there is a direct relationship between goal amounts and success rates.  Unlike the analysis above where both success and failures spiked up in March, albeit to a much lesser extent for failures, their is a direct correlation between how high you set your goal and the chance you would find success in that bracket.  By sorting the data into intervals of five thousand dollars, it becomes evident that low goals (below $5000.00) have high rates of success for theater campaigns in relation to those that have failed. With 92% of our data coming in the range of one to fifteen thousand dollars (more clearly defined by the bar chart), it becomes apparent that the higher your goal, the less likely you will find success in a theater campaign on Kickstarter.  The large interchange visible on the high side of the spectrum of the line graph is a small sample size of nine projects.
 
